@@ -1,3 +1,3 @@
 # Pictoblox-scratch-python-Projects
-1. <a href="Array.py">Array</a>
-<img src="https://github.com/junaid11P/Data-structure-foundation-/blob/main/Arrays.JPG" width="500" height="333">
+1. <a href="Beetle in the Maze - DIY Maze Game.sb3">Beetle in the Maze - DIY Maze Game</a>
+<img src="Beetle in the Maze - DIY Maze Game" width="500" height="333">
