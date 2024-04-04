@@ -5,5 +5,5 @@
 <h4>To Run this project, Download .sb3 file from given below and open the .sb3 file from Pictoblox software or mobile app</h4>
 <br>
 <a href="Beetle in the Maze - DIY Maze Game.sb3">Beetle in the Maze - DIY Maze Game.sb3</a>
-<p>Note:- <br>
-     <h3>"To move the beetle in the maze Use arrow keys"</p></h3>
+<h3><p>Note:- <br>
+     "To move the beetle in the maze Use arrow keys"</p></h3>
