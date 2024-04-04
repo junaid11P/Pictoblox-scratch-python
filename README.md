@@ -6,4 +6,4 @@
 <br>
 <a href="Beetle in the Maze - DIY Maze Game.sb3">Beetle in the Maze - DIY Maze Game.sb3</a>
 <p>Note:- 
-     To move the beetle in maze Use arrow keys on the keyboard</p>
+     To move the beetle in maze Use arrow keys</p>
